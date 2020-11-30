@@ -1,0 +1,80 @@
+body{
+  font-family: serif,sans-serif;
+}
+.container{
+    margin:  auto;
+}
+.clear{
+    clear: both;
+}
+.slider{
+    background-image: url(background.png);
+    background-size: cover;
+      height: 1000px;
+}
+.header{
+    width:100%;
+    max-width: 1180px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 15px;
+    padding-right: 15px;
+    box-sizing: border-box;
+}
+.nav {
+    display: flex;
+    list-style-type: none;
+    justify-content: flex-start;
+    font-size: 14px;
+    overflow: hidden;
+}
+.nav>li{
+   margin: 20px;
+    
+}
+.nav li a{
+    text-decoration: none;
+    color: white
+    ;
+    float: right;
+ 
+    }
+
+/* About Us Find Place City Map Contact */
+
+
+.logo{
+    display: flex;
+    align-items: center;
+   
+}
+/* Search Your Destination */
+
+
+
+
+
+.header img {
+    display: block;
+    width: 11px;
+    height:11px;
+        display: block;
+        margin-right: 10px;
+
+
+}
+.header span {
+    color:white;
+    text-decoration: none;
+}
+.slider  h1{
+  
+    margin-top: 100px;    color: white;
+
+    
+        font-family: sans-serif;
+
+
+}
