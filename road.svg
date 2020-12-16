@@ -1,0 +1,10 @@
+  <svg class ="road" width="1168" height="1758" viewBox="0 0 1168 1758" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M78.5 1C78.6667 41.6188 93.9999 129.615 154 156.648C229 190.44 282.5 190.952 358.5 189.928C419.3 189.109 737.667 186.159 882.5 186.5C921 186.591 988.047 200.227 1034 241.5C1088 290 1089.16 335.203 1091.5 375.5C1093.5 409.906 1091.5 586.186 1091.5 642C1091.5 769 1011.5 851 863 852L293 858.93C165 858.93 82 910.916 75.5 1042.5V1353C70 1462 155 1537.67 244.5 1537.67C351 1537.67 416 1539.37 450 1537.67C521 1537.67 585 1587 589 1669.5C589 1674.01 589 1696.23 589 1757.5" stroke="url(#paint0_linear)" stroke-width="150"/>
+        <defs>
+        <linearGradient id="paint0_linear" x1="586.052" y1="1" x2="586.052" y2="1707.5" gradientUnits="userSpaceOnUse" >
+        <stop stop-color="white" />
+        <stop offset="0.541436"  stop-color="#E6E8EC" stop-opacity="0.1"/>
+        <stop offset="1" stop-color="white" />
+        </linearGradient>
+        </defs>
+        </svg>
