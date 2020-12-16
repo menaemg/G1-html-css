@@ -229,9 +229,10 @@ line-height: 21px;
 #OMAR
 {
     position: relative;
-    
-    top: 100px;
-    width: 100%;
+    /**/
+    /*top: 100px;*/
+   /* width: 100%;*/
+   
 
 
 }
@@ -269,10 +270,16 @@ line-height: 21px;
 {
     position: absolute;
     
-    top: 300px;
+   /* top: 300px;
     bottom: 100px;
     left: 150px;
-   
+    margin-top: -20%;
+    margin-left: -1%;
+    padding: 20% ;*/
+    
+    margin-top: 20%;
+    margin-left: 10%;
+
 
 }
 
@@ -283,11 +290,12 @@ line-height: 21px;
 .atm_man
 {
     position: absolute;
- 
+ /*
     top: 400px;
     bottom: 30px;
-    left: 600px;
-
+    left: 600px;*/
+    margin-top: 23%;
+    margin-left: 40%;
 }
 
 
@@ -295,29 +303,34 @@ line-height: 21px;
 .glowin_point2
 {
     position: absolute;
-    
+    /*
     top: 505px;
     bottom: 30px;
-    left: 1075px;
-
+    left: 1075px;*/
+    margin-top: 30%;
+    margin-left: 71%;
 
 }
 
 
-.P_H2
+.paragraph_Header2
 {
     position: absolute;
    
-    top: 180px;
+   /* top: 180px;
     bottom: 300px;
     left: 20px;
     width: 300px;
+    */
     color: #4F79A4;
      font-size: 28px;
      line-height: 34.3px;
-     font-weight: 5;
+     font-weight: 3;
      font-family: 'Gilroy-Light', sans-serif;
     
+     width: 110%;
+     margin-top: 75%;
+     margin-left: 8%;
 
 }
 
@@ -326,29 +339,36 @@ line-height: 21px;
 {
     position: absolute;
     
-    top: 230px;
+   /* top: 230px;
     bottom: 300px;
     left: 20px;
-    width: 400px;
+    width: 400px;*/
     font-family: 'Cabin', sans-serif;
     
     color: #A5ADB1;
 
+    width: 120%;
+    margin-top: 5%;
+    margin-left: 8%;
 
 }
 
-.P_H1
+.paragraph_Header1
 {
     font-weight: 1100;
     font-family: 'Courier New', Courier, monospace;
     position: absolute;
     
-    top: 140px;
+/*    top: 140px;
     bottom: 30px;
     left: 20px;
     width: 300px;
+  */
     font-family: 'Gilroy', sans-serif;
     
+    width: 120%;
+    margin-top: 60%;
+    margin-left: 8%;
     
 
     color: #4F79A4;
@@ -365,41 +385,30 @@ line-height: 21px;
 {
     position: absolute;
    
-    top: 1100px;
+    /*top: 1100px;
     bottom: 900px;
-    left: 300px;
-}
+    left: 300px;*/
 
-.H-B1
-{
-    position: absolute;
+    width: 20%;
+    margin-top: 75%;
+    margin-left: 20%;
+
+
     
-    top: 1260px;
-    bottom: 900px;
-    left: 635px;
-
-
 }
 
-.H-B2
-{
-    position: absolute;
-    
-    top: 1220px;
-    bottom: 900px;
-    left: 637px;
-
-
-}
 
 .glowin_point1
 {
     position: absolute;
     
-    top: 1220px;
+   /* top: 1220px;
     bottom: 900px;
     left: 60px;
-
+*/
+    
+    margin-top: 80%;
+    margin-left: 4%;
 
 }
 
@@ -407,11 +416,15 @@ line-height: 21px;
 .second_paragraph
 {
     position: absolute;
-    
+   /* 
     top: 1030px;
     bottom: 10px;
     left: 750px;
-   
+ */  
+ 
+    margin-top: 70%;
+    margin-left: 50%;
+
 
 }
 
@@ -419,17 +432,24 @@ line-height: 21px;
 {
     position: absolute;
 
-
+  
+    margin-top: 110%;
+    margin-left: 38%;
+/*
 top: 1740px;
 left: 585px;
+*/
 }
 
 .road
 {
     position: absolute;
-    
+    /*
     top: 1px;
     bottom: 900px;
+    */
+    margin-top: 1%;
+    margin-left: 0.2%;
 
     opacity: 20%;
     
@@ -441,11 +461,14 @@ left: 585px;
 .points
 {
     position: absolute;
-    
+  /*  
     top: 1px;
     bottom: 900px;
     left: 80px;
-
+*/
+   
+    margin-top: 1%;
+    margin-left: 5.1%;
 
 
 }
@@ -454,10 +477,15 @@ left: 585px;
 .plant2
 {
     position: absolute;
-    
+    /*
     top: 1510px;
     bottom: 900px;
-    left: 60px;
+    left: 60px;*/
+
+   
+    margin-top: 100%;
+    margin-left: 4%;
+
 
 }
 
@@ -465,12 +493,13 @@ left: 585px;
 {
 
     position: absolute;
-    
+  /*  
     top: 780px;
     bottom: 30px;
     left: 1100px;
-
-
+*/
+    margin-top: 50%;
+    margin-left: 73%;
 }
 
 
