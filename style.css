@@ -228,8 +228,8 @@ line-height: 21px;
 
 #OMAR
 {
-    position: relative;
-    /**/
+   
+     position: relative;
     /*top: 100px;*/
    /* width: 100%;*/
    
@@ -268,7 +268,7 @@ line-height: 21px;
 
 .first_paragraph
 {
-    position: absolute;
+    /*position: absolute;*/
     
    /* top: 300px;
     bottom: 100px;
@@ -277,45 +277,45 @@ line-height: 21px;
     margin-left: -1%;
     padding: 20% ;*/
     
-    margin-top: 20%;
-    margin-left: 10%;
+    margin-top: 0%;
+    margin-left: 15%;
+    width: 20%;
+    
 
 
 }
 
 
-
-
-
-.atm_man
+.paragraph_Header1
 {
-    position: absolute;
- /*
-    top: 400px;
+    font-weight: 1100;
+    font-family: 'Courier New', Courier, monospace;
+    
+    
+/*    top: 140px;
     bottom: 30px;
-    left: 600px;*/
-    margin-top: 23%;
-    margin-left: 40%;
+    left: 20px;
+    width: 300px;
+  */
+    font-family: 'Gilroy', sans-serif;
+    
+    width: 120%;
+    margin-top: 80%;
+    margin-left: 8%;
+    margin-bottom: 0%;
+
+    color: #4F79A4;
+    font-size: 34px;
+    line-height: 34px;
+    letter-spacing: 0.001em;
+    text-align: left;
+
+
 }
-
-
-
-.glowin_point2
-{
-    position: absolute;
-    /*
-    top: 505px;
-    bottom: 30px;
-    left: 1075px;*/
-    margin-top: 30%;
-    margin-left: 71%;
-
-}
-
 
 .paragraph_Header2
 {
-    position: absolute;
+    
    
    /* top: 180px;
     bottom: 300px;
@@ -329,15 +329,45 @@ line-height: 21px;
      font-family: 'Gilroy-Light', sans-serif;
     
      width: 110%;
-     margin-top: 75%;
+     margin-top: 1%;
      margin-left: 8%;
+     margin-bottom: -75%;
+
+}
+.atm_man
+{
+  
+ /*
+    top: 400px;
+    bottom: 30px;
+    left: 600px;*/
+    margin-top: -20%;
+    margin-left: 45%;
+    padding-bottom: 2%;
+}
+
+
+
+.glowin_point2
+{
+    
+    /*
+    top: 505px;
+    bottom: 30px;
+    left: 1075px;*/
+    margin-top: -90%;
+    margin-left: -73%;
+    padding-bottom: 34%;
 
 }
 
 
+
+
+
 .paragraph
 {
-    position: absolute;
+    
     
    /* top: 230px;
     bottom: 300px;
@@ -353,44 +383,35 @@ line-height: 21px;
 
 }
 
-.paragraph_Header1
+
+
+.second_paragraph
 {
-    font-weight: 1100;
-    font-family: 'Courier New', Courier, monospace;
-    position: absolute;
-    
-/*    top: 140px;
-    bottom: 30px;
-    left: 20px;
-    width: 300px;
-  */
-    font-family: 'Gilroy', sans-serif;
-    
-    width: 120%;
-    margin-top: 60%;
-    margin-left: 8%;
-    
-
-    color: #4F79A4;
-    font-size: 34px;
-    line-height: 34px;
-    letter-spacing: 0.001em;
-    text-align: left;
-
+  
+   /* 
+    top: 1030px;
+    bottom: 10px;
+    left: 750px;
+ */  
+ 
+ margin-top: 34%;
+ margin-left: 45%;
+ padding-bottom: 2%;
+    width: 20%;
 
 }
 
-
 .heart_beat
 {
-    position: absolute;
+  
    
     /*top: 1100px;
     bottom: 900px;
     left: 300px;*/
 
     width: 20%;
-    margin-top: 75%;
+    margin-top: -20%;
+    padding-bottom: 6%;
     margin-left: 20%;
 
 
@@ -400,41 +421,31 @@ line-height: 21px;
 
 .glowin_point1
 {
-    position: absolute;
+   
     
    /* top: 1220px;
     bottom: 900px;
     left: 60px;
 */
-    
-    margin-top: 80%;
-    margin-left: 4%;
 
-}
+/*WE USED position HERE!!!!!!!!!!!*/
 
-
-.second_paragraph
-{
     position: absolute;
-   /* 
-    top: 1030px;
-    bottom: 10px;
-    left: 750px;
- */  
- 
-    margin-top: 70%;
-    margin-left: 50%;
-
+    top: 5%;
+    left: 76%;
 
 }
+
+
 
 #arrow
 {
-    position: absolute;
+    
 
   
-    margin-top: 110%;
-    margin-left: 38%;
+    margin-top: -30%;
+    margin-left: 31%;
+    padding-bottom: 6%;
 /*
 top: 1740px;
 left: 585px;
@@ -443,13 +454,12 @@ left: 585px;
 
 .road
 {
-    position: absolute;
     /*
     top: 1px;
     bottom: 900px;
     */
-    margin-top: 1%;
-    margin-left: 0.2%;
+    margin-top: -150%;
+    margin-left: 5%;
 
     opacity: 20%;
     
@@ -460,15 +470,16 @@ left: 585px;
 
 .points
 {
-    position: absolute;
+  
   /*  
     top: 1px;
     bottom: 900px;
     left: 80px;
 */
    
-    margin-top: 1%;
-    margin-left: 5.1%;
+    margin-top: -95%;
+    margin-left: 10%;
+  
 
 
 }
@@ -476,15 +487,16 @@ left: 585px;
 
 .plant2
 {
-    position: absolute;
+   
     /*
     top: 1510px;
     bottom: 900px;
     left: 60px;*/
 
    
-    margin-top: 100%;
-    margin-left: 4%;
+    margin-top: -18%;
+    padding-bottom:15%;
+    margin-left: -70%;
 
 
 }
@@ -492,14 +504,14 @@ left: 585px;
 .plant1
 {
 
-    position: absolute;
   /*  
     top: 780px;
     bottom: 30px;
     left: 1100px;
 */
-    margin-top: 50%;
-    margin-left: 73%;
+    margin-top: -100%;
+padding-bottom:60%;
+    margin-left: 77%;
 }
 
 
@@ -512,7 +524,7 @@ left: 585px;
 #men3em
 {
     position: relative;
-    top: 2000px;
+    top: 200%;
     width: 100%;
 
 
